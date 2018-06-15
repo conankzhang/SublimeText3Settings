@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"GitSavvy"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Git",
+		"GitSavvy",
+		"Local History",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Afterglow",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://gist.github.com/egel/b7beba6f962110596660",
+		"https://gist.github.com/egel/b7beba6f962110596660"
+	]
+}
